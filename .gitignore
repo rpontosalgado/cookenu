@@ -2,3 +2,5 @@ node_modules
 packege-lock.json
 build
 .env
+
+.DS_Store 
